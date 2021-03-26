@@ -10,5 +10,6 @@ Van, hogy egy-egy sajátos helyzetben egyedi hívek könyörgését szeretnénk 
 |||
 | --- | --- |
 | [priority](../definitions.md#priorities) | won't |
-| dependency | [m/mass](../modules/mass.md) |
+| dependency | [m/mass](mass.md) |
+| [v/appSettings](../views/appSettings.md) | mappa kiválasztása |
 

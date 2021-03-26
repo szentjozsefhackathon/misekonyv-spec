@@ -20,6 +20,6 @@ Mivel így külső forrás is tudja módosítani a naptárat ezért fontos, hogy
 | --- | --- |
 | [priority](../definitions.md#priorities) | should |
 | dependency | [m/calendar](calendar.md) |
-| app-settings | Általános ki és bekapcsolás. |
+| [v/appSettings](../views/appSettings.md) | Általános ki és bekapcsolás. |
 || A szinkronizált naptár kiválasztása. (Valószínűbb, hogy a [m/calendar](calendar.md) modulban kell naptárat választani és a Google Calendar alkalmazásba beállítani, hogy az a konkrét naptár szinkronizálva legyen.)|
 || A szinkronizálás gyakoriságát is a rendszer / Google Calendar beállításoknál kell megadni. |

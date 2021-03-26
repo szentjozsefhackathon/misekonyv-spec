@@ -14,4 +14,4 @@ Amikor éppen [v/liturgy](../view/liturgy.md) nézetben vagyunk, akkor a [menü]
 | --- | --- |
 | [priority](../definitions.md#priorities) | should |
 | dependency | [m/mass](mass.md) |
-| app-settings | - |
+| [v/appSettings](../views/appSettings.md) | - |

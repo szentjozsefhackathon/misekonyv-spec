@@ -9,6 +9,6 @@ Ha telepítve van külön a (még nem létező) énekrend alkalmazás, akkor az 
 
 |||
 | --- | --- |
-| [priority](definitions.md#priorities) | won't |
-| dependency | [m/mass](../modules/mass.md), [m/calendar](../modules/calendar.md) |
-| app-settings | toggle: teljes szöveg / első sorok megjelenítése |
+| [priority](../definitions.md#priorities) | won't |
+| dependency | [m/mass](mass.md), [m/calendar](calendar.md) |
+| [v/appSettings](../views/appSettings.md) | toggle: teljes szöveg / első sorok megjelenítése |

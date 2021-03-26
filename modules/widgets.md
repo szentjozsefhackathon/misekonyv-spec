@@ -11,10 +11,10 @@ Jelenítse meg a [v/date](../views/date.md) felsorolás szerű egyszerűsített 
 ## Másik
 Jelenítse meg a [v/week](../views/week.md) alapján a "heti menüt".
 
-_Lásd még: [m/screenSaver](../modules/screenSaver.md)_
+_Lásd még: [m/screenSaver](screenSaver.md)_
 
 |||
 | --- | --- |
 | [priority](../definitions.md#priorities) | could |
-| dependency | [m/mass](../modules/mass.md), [m/calendar](../modules/calendar.md), [m/liturgicalCalendar](../modules/liturgicalCalendar.md) |
-| app-settings | - |
+| dependency | [m/mass](mass.md), [m/calendar](calendar.md), [m/liturgicalCalendar](liturgicalCalendar.md) |
+| [v/appSettings](../views/appSettings.md) | - |

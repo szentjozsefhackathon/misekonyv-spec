@@ -17,5 +17,5 @@ A liturgiák, főként szentmisék jelentős része énekelhető is. Ezeknek a g
 | --- | --- |
 | [priority](../definitions.md#priorities) | could _Talán ez is túlzás, de úgy vágyom rá._|
 | dependency | [m/mass](mass.md) |
-| app-settings | toggle: megjelenjen az dallam ahol csak lehet / legyen mindenhol elrejtve  |
+| [v/appSettings](../views/appSettings.md)| toggle: megjelenjen az dallam ahol csak lehet / legyen mindenhol elrejtve  |
 

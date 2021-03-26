@@ -32,3 +32,13 @@ Főként moduloknál és egyes funkcióknál szerepel a négy segédige valamely
 - Utána zárójelbe megírható, hogy kinek a döntésén múlik.
 - Bárki hozzá tehet új ilyen elemet.
 
+## Sources = Szövegforrások
+
+| Rövidített cím | Cím | Link |
+| --- | --- | --- |
+| Misekönyv | Misekönyv | |
+| Köznapok1 | Olvasmányoskönyv Köznapokra I. kötet | |
+| Köznapok2 | Olvasmányoskönyv Köznapokra II. kötet | |
+| Aév | Olvasmányoskönyv Vasárnapokra "A" évben | |
+| Bév | Olvasmányoskönyv Vasárnapokra "B" évben | |
+| Cév | Olvasmányoskönyv Vasárnapokra "C" évben | |
