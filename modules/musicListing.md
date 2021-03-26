@@ -10,5 +10,5 @@ Ha telepítve van külön a (még nem létező) énekrend alkalmazás, akkor az 
 |||
 | --- | --- |
 | [priority](definitions.md#priorities) | won't |
-| dependency | [m/mass](modulok/mass.md), [m/calendar](modulok/calendar.md) |
+| dependency | [m/mass](../modules/mass.md), [m/calendar](../modules/calendar.md) |
 | app-settings | toggle: teljes szöveg / első sorok megjelenítése |

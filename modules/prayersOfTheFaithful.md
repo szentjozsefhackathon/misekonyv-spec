@@ -9,6 +9,6 @@ Van, hogy egy-egy sajátos helyzetben egyedi hívek könyörgését szeretnénk 
 
 |||
 | --- | --- |
-| [priority](definitions.md#priorities) | won't |
-| dependency | [m/mass](modulok/mass.md) |
+| [priority](../definitions.md#priorities) | won't |
+| dependency | [m/mass](../modules/mass.md) |
 
