@@ -31,7 +31,7 @@ Programozandó részek
 ## Egyéb modulok
 - N. szűrő
 - Homília
-- Export
+- Export: [m/export](modules/export.md) ([should](definitions.md#priorities))
 - Google Naptár
 - Kották: [m/melodies](modules/melodies.md) ([could](definitions.md#priorities))
 - Minialklamazások: [m/widgets](modules/widgets.md) ([could](definitions.md#priorities))
