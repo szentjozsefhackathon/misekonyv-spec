@@ -32,7 +32,7 @@ Programozandó részek
 - N. szűrő
 - Homília
 - Export: [m/export](modules/export.md) ([should](definitions.md#priorities))
-- Google Naptár
+- Google Naptár Szinkronizáció: [m/googleCalendarSnyc](modules/googleCalendarSnyc.md)  ([should](definitions.md#priorities))
 - Kották: [m/melodies](modules/melodies.md) ([could](definitions.md#priorities))
 - Minialklamazások: [m/widgets](modules/widgets.md) ([could](definitions.md#priorities))
 - Képernyőkímélő: [m/screenSaver](modules/screenSaver.md) ([should / won't](definitions.md#priorities))
