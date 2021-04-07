@@ -58,3 +58,14 @@ Az alábbiakban sok-sok követelmény hangzik el. A jobb átláthatóság és ta
 - Hírdetések: [m/announcements](modules/announcements.md) ([won't](definitions.md#priorities))
 - Hívek könyörgése: [m/prayersOfTheFaithful](modules/prayersOfTheFaithful.md) ([won't](definitions.md#priorities))
 
+## [További nem funkcionális követelmények](nonFunctionalRequirements.md)
+
+- Fejlesztői környezet, 
+- Többnyelvűség, 
+- Támogatott eszközök és kompatibilitás, 
+- Telepítés és telepíthetőség, 
+- Frissíthetőség és frissítés, 
+- Analitikai eszközök, 
+- Dokumentáció, 
+- Felhasználói kézikönyv, 
+- Support igény
