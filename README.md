@@ -45,9 +45,9 @@ Az alábbiakban sok-sok követelmény hangzik el. A jobb átláthatóság és ta
 - Gyászmise: [m/funeralMass](modules/funeralMass.md)
 - Szent Rendek: [m/holyOrders](modules/holyOrders.md)
 - Templomszentelés: [m/consecrationOfChurch](modules/consecrationOfChurch.md)
-- Preorátor
+- Preorátor: [m/praeorator](modules/praeorator.md)
 ## Egyéb modulok
-- N. szűrő
+- N. szűrő: [m/nFilter](modules/nFilter.md) ([should](definitions.md#priorities))
 - Homília
 - Export: [m/export](modules/export.md) ([should](definitions.md#priorities))
 - Google Naptár Szinkronizáció: [m/googleCalendarSnyc](modules/googleCalendarSnyc.md)  ([should](definitions.md#priorities))
