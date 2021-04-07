@@ -1,6 +1,6 @@
 GoogleCalendarSync = Szinkronizálás Google Naptárral
 ===
-Fontos fícsör, hogy a plébánián használt Google Naptárba elég az irodán beírni, hogy pl. május 2-án 10 órakor "Temetés: Kovács Ernőné, Katika (Jenő atya)" és a kütyün a [v/date](../views/date) nézetben máris ott van a 10 órás esemény mellett a temetés ikonja és a [v/liturgyOverview](../views/liturgyOverview.md) nézetben az elhunyt neve már ki van töltve.
+Fontos fícsör, hogy a plébánián használt Google Naptárba elég az irodán beírni, hogy pl. május 2-án 10 órakor "Temetés: Kovács Ernőné, Katika (Jenő atya)" és a kütyün a [v/date](../views/date.md) nézetben máris ott van a 10 órás esemény mellett a temetés ikonja és a [v/liturgyOverview](../views/liturgyOverview.md) nézetben az elhunyt neve már ki van töltve.
 
 - Legegyszerűbb megoldásnak használhatjuk a klasszikus Google Naptárat a kütyün. Ott kell beállítani hogy a helyi naptár szinkronizálva legyen.
 - Valahol jelezzük az alkalmazásban (lehet a [v/date](../views/date.md) nézet alja, vagy a [v/menu](../views/menu.md), vagy inkább a [v/appSettings](../views/appSettings.md)), hogy mikor volt utoljára szinkronizálva a naptár, hogy feltűnjön ha probléma van.
