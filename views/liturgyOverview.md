@@ -24,7 +24,7 @@ A további beállítások / megjelenítendők eltér(het)nek a liturgia típust�
 
 ## mass overview 
 
-- Legördülő listából kiválaszthatja, hogy milyen mise legyen. A lista elején szerepelnek liturgikus nap lehetőségei ([m/liturgicalCalendar](../modules/liturgicalCalendar.md)) (például köznap vagy fakultatív emléknap) majd az [extra misék](mass.md#extra-misék): a négy fejléc először (rituális, különféle szükségletekre, votív, gyász). Rá kattintás esetén ezek lenyílnak. A második szintek (pl. 2.2.) fejlécként jelennek meg és harmadik szintig minden - ami lehetséges adott időben / le van fejlesztve. (Mindegyik lista az [m/liturgicalCalendar](../modules/liturgicalCalendar.md) alapján előszűrt.)
+- Legördülő listából kiválaszthatja, hogy milyen mise legyen. A lista elején szerepelnek liturgikus nap lehetőségei ([m/liturgicalCalendar](../modules/liturgicalCalendar.md)) (például köznap vagy fakultatív emléknap) majd az [extra misék](../modules/mass.md#extra-misék): a négy fejléc először (rituális, különféle szükségletekre, votív, gyász). Rá kattintás esetén ezek lenyílnak. A második szintek (pl. 2.2.) fejlécként jelennek meg és harmadik szintig minden - ami lehetséges adott időben / le van fejlesztve. (Mindegyik lista az [m/liturgicalCalendar](../modules/liturgicalCalendar.md) alapján előszűrt.)
 
 - Ha a listából kiválasztáshoz vannak kérdések akkor azok megjelennek ezen a nézeten. Talán nem felugró új ablakban, hanem beépülve. (Például: férfi vagy női szerzetes? Egy vagy több?)
 

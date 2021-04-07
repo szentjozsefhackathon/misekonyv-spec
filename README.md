@@ -10,7 +10,7 @@ Tartalmaz mindenféle szentmisét, keresztelés, házasság, és temetési litur
 - [Az ajánlatkérés scope-ja](inquiry.md)
 
 Programozandó részek
-- [A Launcher](thelauncher.md)
+- [A Launcher](theLauncher.md)
 
 # Nézetek
 
