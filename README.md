@@ -33,18 +33,18 @@ Az alábbiakban sok-sok követelmény hangzik el. A jobb átláthatóság és ta
 - Naptár: [m/calendar](modules/calendar.md) ([must](definitions.md#priorities))
 - Liturgikus naptár: [m/liturgicalCalendar](modules/liturgicalCalendar.md) ([must](definitions.md#priorities))
 ## Liturgikus modulok
-- Szentmise
-- Húsvét
-- Igeliturgia
-- Házasság
-- Keresztség
-- Elsőáldozás
-- Bérmálás
-- Betegek kenete
-- Temetés Funeral liturgy
-- Gyászmise
-- Szent Rendek
-- Templomszentelés
+- Szentmise: [m/mass](modules/mass.md)
+- Húsvét: [m/easter](modules/easter.md)
+- Igeliturgia: [m/celebrationOfTheWord](modules/celebrationOfTheWord.md)
+- Házasság: [m/matrimony](modules/matrimony.md)
+- Keresztség: [m/baptism](modules/baptism.md)
+- Elsőáldozás: [m/firstCommunion](modules/firstCommunion.md)
+- Bérmálás: [m/confirmation](modules/confirmation.md)
+- Betegek kenete: [m/anointingOfTheSick](modules/anointingOfTheSick.md)
+- Temetés: [m/funeral](modules/funeral.md)
+- Gyászmise: [m/funeralMass](modules/funeralMass.md)
+- Szent Rendek: [m/holyOrders](modules/holyOrders.md)
+- Templomszentelés: [m/consecrationOfChurch](modules/consecrationOfChurch.md)
 - Preorátor
 ## Egyéb modulok
 - N. szűrő
