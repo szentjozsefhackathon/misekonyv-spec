@@ -12,7 +12,7 @@ Mivel megrendelőként tapasztalatlanok vagyunk a témában ezért segít, ha eg
 - Support: a termék szállítása után meghatározott ideig (negyedév?) support, hogy hibás teljesítés esetén a specifikációtól eltérő működést orvosolni lehhesen. (Kinek a költségére?) Minden más fejleszteni vagy javítani való külön megállapodást igényel.
 
 ## Elvárt és opcionális követelmények
-- A legtöbb követelménynél szerepel egy [must, should, could vagy won’t](). Ahol nem szerepel semmi azt must-nak kell értelmezni. Az ajánlatot a must és should teljesítésére kérjük.
+- A legtöbb követelménynél szerepel egy [must, should, could vagy won’t](definitions.md#priorities). Ahol nem szerepel semmi azt must-nak kell értelmezni. Az ajánlatot a must és should teljesítésére kérjük.
 - A could-al jelölt követelményekhet egyben vagy valamilyen részenként szeretnénk kiegészítő ajánlatot ill. ajánlat becslést kérni.
 
 ## Határidők, ütemezés: rugalmas, de az ajánlat rögzítse le

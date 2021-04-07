@@ -27,7 +27,8 @@ Főként moduloknál és egyes funkcióknál szerepel a négy segédige valamely
 - Bárki hozzá tehet új ilyen elemet.
 
 ## kérdés
-- Hasonlít a todo-hoz, de konkrétabb és így például megjegyzés hozzáadásával bárki hozzá tud szólni, hogy vajon hogyan lenne jó. Hasonlít a javaslathoz de az írója nem biztos a válaszban.
+Hasonlít a todo-hoz, de konkrétabb és így például megjegyzés hozzáadásával bárki hozzá tud szólni, hogy vajon hogyan lenne jó. Hasonlít a javaslathoz de az írója nem biztos a válaszban.
+
 - De kivitelezésig el kell dönteni, hogy legyen / ne legyen / hogyan legyen. Tehát szép lassan el kell fogyjanak. 
 - Utána zárójelbe megírható, hogy kinek a döntésén múlik.
 - Bárki hozzá tehet új ilyen elemet.
