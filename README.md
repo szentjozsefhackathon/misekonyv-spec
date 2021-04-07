@@ -77,24 +77,36 @@ Az alábbiakban sok-sok követelmény hangzik el. A jobb átláthatóság és ta
 ## [További nem funkcionális követelmények](nonFunctionalRequirements.md)
 
 - Fejlesztői környezet, 
-
 - Többnyelvűség, 
-
 - Támogatott eszközök és kompatibilitás, 
-
 - Telepítés és telepíthetőség, 
-
 - Frissíthetőség és frissítés, 
-
 - Analitikai eszközök, 
-
 - Dokumentáció, 
-
 - Felhasználói kézikönyv, 
-
 - Support igény
 
-  
+
+
+# Adatformátumok és adatforrások
+
+Pár ezer oldalnyi szöveg kerül bele ebbe az alkalmazásban.
+
+- Javaslat: JSON vagy XML, könyvek/fejezetek mappa rendszerben sok külön fájlban.
+- Javaslat: a struktúra minél inkább kövesse a nyomtatott könyveket. Ez segíti az átláthatóságot.
+
+Megbeszélendő: hatalmas munka a szövegek pdf/txt/word formátumból megfelelő formátumú fájlokra alakítása. Ezt akár mi - megrendelő - is ki tudjuk szervezni harmadik félnek, ha készül megfelelően definiált formátum azonosítókkal.
+
+Segíthet a szövegek előkészítésében, hogy a https://igenaptar.katolikus.hu/ egyféle adatbázisból már dologzik ezen. Tőlük el lehet kérni, ha már minden jogi akadályunk elhárult.
+
+> Todo: hívekkönyörgése, mise, stb (?) deifniálása ide az olvasmányokhoz hasonlóan
+
+- Olvasmányok: [d/readings](dataschemas/readings.md) 
+- Hívek könyörgése: [d/prayersOfTheFaithful](dataschemas/prayersOfTheFaithful.md)
+- Mise általános
+- *stb?*
+
+> TODO: mik vannak még?
 
 # Egyéb 
 
