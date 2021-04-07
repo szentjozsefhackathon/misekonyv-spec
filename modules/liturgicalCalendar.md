@@ -35,7 +35,26 @@ Ezek rendszerét a **Misekönyv pontosan definiálja**
 
     Több féle szinten megoldható (pl. előre egy évre begépelve, vagy öröknaptár leprogramozva), de léte nélkülözhetetlen.
 
-    
+## Naptárhoz megjegyzések
+
+Ünnepek rangjainál extrák:
+
+- október 22 templomszentelési főünnep VAGY köznap. Uuuupsz.
+- ilyesmi lehet július 26 ha szétszedjük külön Szent Annára és Szent Joakim és Szent Annára.
+
+Egy nap több mise:
+
+- ünnepek előestéje
+- június 24, keresztelő szent János vigília. j
+- június 29, Péter és Oál, vigília mise
+- július 26: talán könnyebb két különként kezelni választható ünnepként? Szent Joakim és Szent Anna. Illetve: Szent Anna. (Minden szövegbe egyes-többesszám meg minden.)
+- augusztus 15, Nagyboldogasszony vigília
+- (november 1: három halottak napi közül lehet választani, így nem teljesen ide való, de azért…)
+- Karácsony: éjféli, pásztorok, ünnepi
+- Nagycsütörtök Krizmaszentelési
+- Húsvéti vigília (de az egészen külön kezelve)
+
+
 
 |                                          |                                                              |
 | ---------------------------------------- | ------------------------------------------------------------ |

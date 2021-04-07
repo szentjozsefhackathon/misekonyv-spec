@@ -61,11 +61,27 @@ Az alábbiakban sok-sok követelmény hangzik el. A jobb átláthatóság és ta
 ## [További nem funkcionális követelmények](nonFunctionalRequirements.md)
 
 - Fejlesztői környezet, 
+
 - Többnyelvűség, 
+
 - Támogatott eszközök és kompatibilitás, 
+
 - Telepítés és telepíthetőség, 
+
 - Frissíthetőség és frissítés, 
+
 - Analitikai eszközök, 
+
 - Dokumentáció, 
+
 - Felhasználói kézikönyv, 
+
 - Support igény
+
+  
+
+# Egyéb 
+
+
+[Sok minden amit még át kell gondolni és meg kell tervezni.](inProgress.md)
+
