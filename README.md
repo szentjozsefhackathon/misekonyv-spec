@@ -48,7 +48,7 @@ Az alábbiakban sok-sok követelmény hangzik el. A jobb átláthatóság és ta
 - Preorátor: [m/praeorator](modules/praeorator.md)
 ## Egyéb modulok
 - N. szűrő: [m/nFilter](modules/nFilter.md) ([should](definitions.md#priorities))
-- Homília
+- Homília/Prédikáció: [m/homily](modules/homily.md)
 - Export: [m/export](modules/export.md) ([should](definitions.md#priorities))
 - Google Naptár Szinkronizáció: [m/googleCalendarSnyc](modules/googleCalendarSnyc.md)  ([should](definitions.md#priorities))
 - Kották: [m/melodies](modules/melodies.md) ([could](definitions.md#priorities))
