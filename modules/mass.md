@@ -12,3 +12,5 @@ Egy [misének ezek a részei](https://docs.google.com/document/d/1yxp0r2gVRcalQ8
 
 > TODO: beállítások részletezése
 
+
+
