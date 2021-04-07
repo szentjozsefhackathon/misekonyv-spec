@@ -1,7 +1,5 @@
 # readings = Olvasmányok 
 
-Az [Adatbázis - szövegforrás](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.kz5p7s6kd98w)hoz segítségül formai definíciók, a nyomtatott könyvek alapján. 
-
 - Nem kötelező érvényű adatstruktúra. 
 
 ```json

@@ -9,22 +9,10 @@ Fontos, hogy a későbbi évek során a fejlesztésbe mások is be tudjanak kapc
 
 
 
-- A naptárak és szövegeket valamilyen, ember számára is olvasható, szöveges formában legyen tárolva (pl xml, json, csv) a többi kódtól elkülönítve. (See: [Adatbázis - szövegforrás](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.kz5p7s6kd98w).)
+- A naptárak és szövegeket valamilyen, ember számára is olvasható, szöveges formában legyen tárolva (pl xml, json, csv) a többi kódtól elkülönítve. (See: [Adatformátumok és adatforrások](README.md#adatformátumok-és-adatforrások))
 - A definiált fejlesztői környezet telepítése után néhány lépéssel (max 5) mindig le lehessen fordítani teljes értékű .apk csomaggá az alkalmazást.
 - Ez a building process akadjon el, ha a szövegekben szintaktikai hiba van. És térjen vissza a hiba helyéve.
-- Javaslat: már fejlesztés közben is lehetne élni ezzel a lehetőséggel és akkor a szöveg fájlok fejlesztése részben kiszervezhető. (See: [Adatbázis - szövegforrás](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.kz5p7s6kd98w).)
-
-
-
-## Többnyelvűség - m-i18n
-
-Bár most magyarul készül az app, de készen kell álljon a nemzetközi debütálásra három szinten is:
-
-- Felület fordítható legyen. [app-settings](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.fvmxvlofvf63)-ben vagy külön menü pontban nyelv állítás
-- A liturgiák nyelve a [liturgy overview ](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.drdnoaqmzos7)nézetben állítható legyen, ha az adott liturgiának lesz többféle nyelve.
-- A kód nyelve (változók, függvények, osztályok, magyarázatok, stb.) legyen angol. (Esetleg szakszavak lehetnek latinul. :P) Hogy későbbi továbbfejlesztés és nemzetköziesítés esetén lehessen bármit.
-
-priority: must
+- Javaslat: már fejlesztés közben is lehetne élni ezzel a lehetőséggel és akkor a szöveg fájlok fejlesztése részben kiszervezhető. (See: [Adatformátumok és adatforrások](README.md#adatformátumok-és-adatforrások))
 
 
 
@@ -51,7 +39,7 @@ Viszont figyelembe kell venni, hogy: a Google Play telepítése valószínűleg 
   
 
 - Készüljön dokumentáció ami lépésről lépésre leírja az első telepítendőket és első beállításokat egy rutinos android felhasználó számára.
-- Készüljön leírás az új felhasználók számára, hogy hogyan tudják beállítani a Google Naptárat ([m-GCalendarSync](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.82gt9abgiysj)) és Dokumentumokat ([m-prédikáció](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.zc50y4hvw581), [m-hirdetések](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.xd6x2xm484ek))
+- Készüljön leírás az új felhasználók számára, hogy hogyan tudják beállítani a Google Naptárat ([m/googleCalendarSync](modules/googleCalendarSync.md)) és Dokumentumokat ([m/announcements](modules/announcements.md), [m/homily](modules/homily.md))
 
 
 
@@ -88,8 +76,8 @@ A későbbi vágyott idegennyelvűsítés miatt fontos, hogy más programozók i
 
 Kell készüljön leírás képekkel a felhasználó számára is, hogy tudja kezelni a programot.
 
-- Általános leírás. Nap választás. Liturgia választás. Részletek beállítása. Liturgia nézet. App beállítások. -» Minden [nézethez](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.wqe3k19v3ce) kell legyen leírás.
-- Az első használatnál lévő teendők. (See: [Telepítés, telepíthetőség](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.21i1p1fg58t4))
+- Általános leírás. Nap választás. Liturgia választás. Részletek beállítása. Liturgia nézet. App beállítások. -» Minden [nézethez](README.md#nézetek) kell legyen leírás.
+- Az első használatnál lévő teendők. (See: [Telepítés, telepíthetőség](nonFunctionalRequirements.md#telepítés-telepíthetőség))
 
 ## Support igény
 

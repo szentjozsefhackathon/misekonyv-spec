@@ -21,6 +21,7 @@ Programozandó részek
 - [liturgyView](views/liturgy.md)
 - [liturgyOverviewView](views/liturgyOverview.md)
 - [weekView](views/week.md)
+- [menu](views/menu.md)
 
 
 
@@ -66,18 +67,18 @@ Az alábbiakban sok-sok követelmény hangzik el. A jobb átláthatóság és ta
 - N. szűrő: [m/nFilter](modules/nFilter.md) ([should](definitions.md#priorities))
 - Homília/Prédikáció: [m/homily](modules/homily.md)
 - Export: [m/export](modules/export.md) ([should](definitions.md#priorities))
-- Google Naptár Szinkronizáció: [m/googleCalendarSnyc](modules/googleCalendarSnyc.md)  ([should](definitions.md#priorities))
+- Google Naptár Szinkronizáció: [m/googleCalendarSync](modules/googleCalendarSync.md)  ([should](definitions.md#priorities))
 - Kották: [m/melodies](modules/melodies.md) ([could](definitions.md#priorities))
 - Minialklamazások: [m/widgets](modules/widgets.md) ([could](definitions.md#priorities))
 - Képernyőkímélő: [m/screenSaver](modules/screenSaver.md) ([should / won't](definitions.md#priorities))
 - Énekrend: [m/musicListing](modules/musicListing.md) ([won't](definitions.md#priorities))
 - Hírdetések: [m/announcements](modules/announcements.md) ([won't](definitions.md#priorities))
 - Hívek könyörgése: [m/prayersOfTheFaithful](modules/prayersOfTheFaithful.md) ([won't](definitions.md#priorities))
+- Többnyelvűség: [m/i18n](modules/i18n.md) ([must](definitions.md#priorities))
 
 ## [További nem funkcionális követelmények](nonFunctionalRequirements.md)
 
 - Fejlesztői környezet, 
-- Többnyelvűség, 
 - Támogatott eszközök és kompatibilitás, 
 - Telepítés és telepíthetőség, 
 - Frissíthetőség és frissítés, 

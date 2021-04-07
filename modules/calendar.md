@@ -6,7 +6,7 @@ Ehhez használ(hat)ja a beépített android naptárat.
 
 ### f-settingsString (could)
 
-A beállításokat standard naptári szövegmezőbe is egy max kb 8-10 karakteres stringben kódolni. A kód alapján bármelyik másik alkalmazás is fel kell tudja oldani a megfelelő beállításokat. Ez biztosíthatja több kütyü szinkronizálását [m-GCalendarSync](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.82gt9abgiysj) esetén. 
+A beállításokat standard naptári szövegmezőbe is egy max kb 8-10 karakteres stringben kódolni. A kód alapján bármelyik másik alkalmazás is fel kell tudja oldani a megfelelő beállításokat. Ez biztosíthatja több kütyü szinkronizálását [m/googleCalendarSync](googleCalendarSync.md) esetén. 
 
 Ezért szükséges, hogy minden (!) beállítás le legyen benne mentve, ne csak a defaul-tól eltérés.
 

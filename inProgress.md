@@ -2,6 +2,28 @@
 
 
 
+## inProgress
+
+- ne kapcsoljon ki legalább 15 perc mozdulatlanság esetén se
+
+- o-oooo: evangéliumos könyv kétféle fordításban?? upsz.
+
+- Apróbb szentek esetén a szentlecke és olvasmány, csak “különleges lelkipásztori szempont alapján választhatü olvasmányok”. Tehát nem szimpla választás, hanem rá kell erősíteni. (Lást JTMR saját misék). Akár van olvasmány - szentlecke is, de ha a napja nem nagy ünnep, akkor opciósan az egyik.
+
+- JTMR miséi Loyolai Szent Ignác napján Szentleckéhez az an ír, hogy, `“Vag egy szentlecke az alábbiak közül: 
+  Ef 1, 3-10
+  Gal 5, 16-25 (hosszabb forma)
+  Gal 5, 16. 22-25 (rövidebb forma)
+  Ef 3, 14-21” `
+
+  Ezekkel mit? Talán egyszerűen begépeljük és kész. Minek hivatkozásos változatot megőrizni. JTMR misék közös részeknél nagyon sok ilyen van. Hümm. Vagy igazából valahonnan vették? Iraglmatlan sok...
+
+- Apró extra: a keresztények egységéért végzet héten jobban ajánlja fl az extra misék közül a megfelelőt. p844-et. vasárnap is!
+
+- Extra: püspökki szentmiséhez: bevezető extra, áldás extra, más talán nincs. N. püspökünkért?
+
+- Extra: van-e diakónus
+
 ## Kérdés/töprengés/hogyan kerül ebbe bele:
 
 - Misekönyv300: Pünkösd hétfőn és kedden lehet pünkösdi mise ha sokan vannak.

@@ -2,11 +2,7 @@
 
 A szentmisék összeállításáért felel. Kritikusan legfontosabb.
 
-Egy [misének ezek a részei](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.hgwvu396we2s) vannak. Ezekbe kell minden megérkezzen a megfelelő helyekről.
-
 [TOC]
-
-
 
 ## Egy szentmise adatai
 
@@ -21,21 +17,21 @@ Minden szentmisének vannak fő adatai
 
 ## A szentmise része
 
-1. Kezdőének (r1) (saját, ha van [m-énekrend](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.nky42fikc1ha))
+1. Kezdőének (r1) (saját, ha van [m/musicListing](musicListing.md))
 
 2. Köszöntés (vagy!) (r2)
 
 3. Bűnbánati liturgia (vagy! + szenteltvizes opciók) (r3)
 
-4. Uram Irgalmazz (függ 3-tól) (r4) (saját, ha van [m-énekrend](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.nky42fikc1ha))
+4. Uram Irgalmazz (függ 3-tól) (r4) (saját, ha van [m/musicListing](musicListing.md))
 
-   1-4 Helyett olykor körmenet (virágvasárnap, úr napja.gyertyaszentelő feb2, ezekben sok vagy)könyörgés jó termésért (április 25 utáni vasárnap) [m-praeorator](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.acw5runa3m21)
+   1-4 Helyett olykor körmenet (virágvasárnap, úr napja.gyertyaszentelő feb2, ezekben sok vagy)könyörgés jó termésért (április 25 utáni vasárnap) [m/praeorator](praeorator.md)
 
-   - víz megáldása (vízkeresztkor, más vasárnapokon) [m-praeorator](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.acw5runa3m21)
-   - adventi gyertyagyújtás [m-praeorator](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.acw5runa3m21)
-   - úrnapi körmenet [m-praeorator](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.acw5runa3m21)	A körmenetnek vannak pl tiikus olvasmány részei.
+   - víz megáldása (vízkeresztkor, más vasárnapokon) [m/praeorator](praeorator.md)
+   - adventi gyertyagyújtás [m/praeorator](praeorator.md)
+   - úrnapi körmenet [m/praeorator](praeorator.md)	A körmenetnek vannak pl tiikus olvasmány részei.
 
-5. Dicsőség (amennyiben van) (r5) (saját, ha van [m-énekrend](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.nky42fikc1ha))
+5. Dicsőség (amennyiben van) (r5) (saját, ha van [m/musicListing](musicListing.md))
 
 6. Collecta (Könyörgés) (r6) 
 
@@ -48,11 +44,11 @@ Minden szentmisének vannak fő adatai
 
 7. Olvasmány (r7)
 
-8. Zsoltárének (r8) (saját, ha van [m-énekrend](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.nky42fikc1ha))
+8. Zsoltárének (r8) (saját, ha van [m/musicListing](musicListing.md))
 
 9. Olvasmány (r9)
 
-10. Alleluja / evangélium előtti vers (r10) (saját, ha van [m-énekrend](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.nky42fikc1ha))
+10. Alleluja / evangélium előtti vers (r10) (saját, ha van [m/musicListing](musicListing.md))
 
     - Húsvétkor és Pünkösdkor ill Úrnapján szekvencia belép elé. 
       - (Húsvét: Olvasmányok évközi időre I, p673 vagy Olvasmányos vasárnap b év p138)), c év 139, a év 180
@@ -65,25 +61,25 @@ Minden szentmisének vannak fő adatai
     - Ha van diakónus / ha nincs (r11) 
     - Evangélium felolvasása (r12-13)
 
-12. Homília (r14). Kattintható, ha van [m-prédikáció](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.zc50y4hvw581)
+12. Homília (r14). Kattintható, ha van [m/homily](homily.md))
 
-13. Hiszekegy (vagy! + húsvéti/keresztelési) (ha van) (r15) (esetleg saját, ha van [m-énekrend](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.nky42fikc1ha))
+13. Hiszekegy (vagy! + húsvéti/keresztelési) (ha van) (r15) (esetleg saját, ha van [m/musicListing](musicListing.md))
 
     - karácsonyi misékben (éjféli, pásztorok, ünnepi) térdhajtás
 
-      12-13(-14) Helyett (részben): [m-keresztelés](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.9m0hj25lzrz8), [m-bérmálás](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.63qiuvwhm3wi), [m-esküvő](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.5qckhdq103jf), szentelések, hamvazkodás, Balázs áldás, krizmaszentelőn papi ígéretek. 
+      12-13(-14) Helyett (részben): [m/baptism](baptism.md), [m/confirmation](confirmation.md), [m/matrimony](matrimony.md), szentelések, hamvazkodás, Balázs áldás, krizmaszentelőn papi ígéretek. 
 
-      [m-praeorator](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.acw5runa3m21): 14 szentéllek hívás esetén ide illeszkedik egy ének, könyörgés és aztán saját hívek könyörgése.
+      [m/praeorator](praeorator.md): 14 szentéllek hívás esetén ide illeszkedik egy ének, könyörgés és aztán saját hívek könyörgése.
 
       *Todo: pontos listát ide!*
 
-14. Hívek könyörgése (r16) (Saját, ha van [m-hívekkönyörgése](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.vnvieity497o))
+14. Hívek könyörgése (r16) (Saját, ha van [m/prayersOfTheFaithful](prayersOfTheFaithful.md))
 
    - Lehet benne “N.”: olykor pápáért és főpásztortért. Rendszersen opcionálisan elhunytért (kell az elhunyt(ak) neme is.) Szenteknél is lehet N.
 
 15. Felajánlás
 
-    - Felajánlási ének (r17) (saját, ha van [m-énekrend](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.nky42fikc1ha))
+    - Felajánlási ének (r17) (saját, ha van [m/musicListing](musicListing.md))
     - mindix fix szöveg (r19-r25)
     - Felajánló Könyörgés (nagyon változó… 
       - lehet benne “N.” a napi szent kapcsán) (r26)
@@ -97,7 +93,7 @@ Minden szentmisének vannak fő adatai
     - prefáció (nagyon változó, de IV. kánonnál fix) (a prefációt az evangélium is befolyásolhatja: nagyböjt III., IV., V.  vasárnapja) (konkrét napján / megemlékezés kapcsán is szövegvariáns. illetve húsvét / nyolcada is szövegvariáns (amit talán egyszerűbb két külön prefációként megcsinálni)) 
     - zárójeles rész benne piros zárójeles csak.
 
-17. Szent vagy. (saját, ha van [m-énekrend](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.nky42fikc1ha)) (r27)
+17. Szent vagy. (saját, ha van [m/musicListing](musicListing.md)) (r27)
 
 18. Kánon I-IV, V-VIII (nem mindig lehet mindegyiket választani, default érték ünnep méret szerint változik) (mindegyikben: 
 
@@ -145,7 +141,7 @@ Minden szentmisének vannak fő adatai
 
       Nászmise esetén Embolizmus kimarad és jön a nászáldás. Benne olvasmányok függvényében de nem definiáltam A-B-C variáns
 
-22. Isten báránya, (saját, ha van [m-énekrend](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.nky42fikc1ha))
+22. Isten báránya, (saját, ha van [m/musicListing](musicListing.md))
 
 23. Íme az Isten báránya (és csöndes imák)
 
@@ -153,7 +149,7 @@ Minden szentmisének vannak fő adatai
 
     > Todo: Elsőáldzoás esetán extra. Meg még pár más esetben is. Meghatározni
 
-25. Áldozási ének (igen változó, olykor a választott evangélium is befolyásolja: nagyböjt IV, V, . vasárnapja, nagyböjt V. hete hétfő) (Évközi vasárnapokon és máskori van, hogy kettő közül választható. Mindkettőt leközüljük..) (saját, ha van [m-énekrend](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.nky42fikc1ha))
+25. Áldozási ének (igen változó, olykor a választott evangélium is befolyásolja: nagyböjt IV, V, . vasárnapja, nagyböjt V. hete hétfő) (Évközi vasárnapokon és máskori van, hogy kettő közül választható. Mindkettőt leközüljük..) (saját, ha van [m/musicListing](musicListing.md))
 
 26. Áldozás utáni könyörgés (nagyon sokféle. lásd mise)
 
@@ -168,7 +164,7 @@ Minden szentmisének vannak fő adatai
 
     - pl Jubiláns házasok megáldása (preorátor II, p 12)
 
-28. Hirdetések (csak ha [m-hirdetések](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.xd6x2xm484ek))
+28. Hirdetések (csak ha [m/announcements](announcements.md))
 
 29. Záróáldás: sokféle extra opció lehet. részben időszakra szűkítve
 
@@ -180,19 +176,19 @@ Minden szentmisének vannak fő adatai
 
 31. Ide bekerülhet egy jó TeDeum olykor.
 
-    - [m-praeorator](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.acw5runa3m21): tanévzáró hálaadásra
+    - [m/praeorator](praeorator.md): tanévzáró hálaadásra
 
-32. Záróének. (saját, ha van [m-énekrend](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.nky42fikc1ha)) 
+32. Záróének. (saját, ha van [m/musicListing](musicListing.md)) 
 
 
 
 ## Extra misék
 
-Bizonyos feltételek mellett a normál köznapi vagy emléknapi misék helyett vehetőek misék máshonnan is. Ezt szabályozza a [m-igenaptár](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.5uusvmtsj8nl). 
+Bizonyos feltételek mellett a normál köznapi vagy emléknapi misék helyett vehetőek misék máshonnan is. Ezt szabályozza a [m/liturgicalCalendar](liturgicalCalendar.md). 
 
-A [mass overview view ](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.b6mfm921vcin)-ban jelenik meg a választási lehetőség. A fa elágazások szerint végig kattintható olykor kérdésekkel, hogy minél jobban hasonlítson a misekönyv struktúrájára. Csak azok látszanak, amik adott napon lehetséges opciók.
+A  [v/liturgyOverview](../views/liturgyOverview.md)ban jelenik meg a választási lehetőség. A fa elágazások szerint végig kattintható olykor kérdésekkel, hogy minél jobban hasonlítson a misekönyv struktúrájára. Csak azok látszanak, amik adott napon lehetséges opciók.
 
-A rituális misék egyes pontjai szinte pont ugyanígy megjelennek a saját [liturgy overview view](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.drdnoaqmzos7) beállításainál. Például, ha valaki új házasságkötésre kattint, akkor a megjelnő opciók között szerepel minden az 1.4 alatt.
+A rituális misék egyes pontjai szinte pont ugyanígy megjelennek a saját [v/liturgyOverview](../views/liturgyOverview.md) beállításainál. Például, ha valaki új házasságkötésre kattint, akkor a megjelnő opciók között szerepel minden az 1.4 alatt.
 
 > Todo: sorrendje módosítandó úgy, hogy a papok használta misék felül legyenek (papszentelési mise pl kevésbé kell mint nászmise)
 

@@ -1,34 +1,34 @@
 # chooseLiturgyTypeView = Liturgia típusának kiválasztása
 
- Ikonok és nevek a választható liturgia fajtákkal. Kattintva tovább visz a pár újabb opcióval és kérdéssel majd eljut [liturgy overview](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.drdnoaqmzos7)-ig
+ Ikonok és nevek a választható liturgia fajtákkal. Kattintva tovább visz a pár újabb opcióval és kérdéssel majd eljut [v/liturgyOverview](liturgyOverview.md)-ig
 
-Opciók, amik időszaktól függően ([m-igenaptár](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.5uusvmtsj8nl)) nem mind jelennek meg:
+Opciók, amik időszaktól függően ([m/liturgicalCalendar](../modules/liturgicalCalendar.md)) nem mind jelennek meg:
 
-- szentmise, igeliturgia ([m-mise](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.c0jyobpx4zkt), [m-igeliturgia](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.15ube3d5qzs3)), 
+- szentmise, igeliturgia ([m/mass](../modules/mass.md), [m/celebrationOfTheWord](../modules/celebrationOfTheWord.md)), 
 
-- keresztelő (misével vagy azon kívül) ([m-keresztelő](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.9m0hj25lzrz8)), 
+- keresztelő (misével vagy azon kívül) ([m/baptism](../modules/baptism.md)),
 
-- esküvő (nászmisével vagy nélkül) ([m-esküvő](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.5qckhdq103jf)), 
+- esküvő (nászmisével vagy nélkül) ([m/matrimony](../modules/matrimony.md)), 
 
-- temetés és gyászmise ([m-temetés](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.4p71scc6k7dd), [m-gyászmise](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.mkh5bkejitu9))
+- temetés és gyászmise ([m/funeral](../modules/funeral.md), [m/funeralMass](../modules/funeralMass.md)),
 
-- elsőáldozás ([m-elsőáldozás](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.h7bq49ps72uy)), 
+- elsőáldozás ([m/firstCommunion](../modules/firstCommunion.md)), 
 
-- bérmálás ([m-bérmálás](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.63qiuvwhm3wi)), 
+- bérmálás ([m/confirmation](../modules/confirmation.md)), 
 
-- szent rendek ([m-szentrendek](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.3aiy2l2sepsk)), 
+- szent rendek ([m/holyOrders](../modules/holyOrders.md)),
 
-- betegek kenete ([m-betegekkenete](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.qmwlv5vj2h3)),
+- betegek kenete ([m/anointingOfTheSick](../modules/anointingOfTheSick.md)),
 
-- templom- vagy oltárszentelés ([m-templomszentelés](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.93db2lz76aqz))
+- templom- vagy oltárszentelés ([m/consecrationOfChurch](../modules/consecrationOfChurch.md)),
 
-- nagycsütörtök ([m-húsvét](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.wjqg63shj09b))
+- nagycsütörtök ([m/easter](../modules/easter.md)),
 
-- nagypéntek ([m-húsvét](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.wjqg63shj09b))
+- nagypéntek ([m/easter](../modules/easter.md)),
 
-- húsvét vigíliája ([m-húsvét](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.wjqg63shj09b))
+- húsvét vigíliája ([m/easter](../modules/easter.md)),
 
-- adott napokon a [m-praeorator](https://docs.google.com/document/d/1yxp0r2gVRcalQ8xiSsZ1fPsDkON7amSRdyOulyMM_Rg/edit?ts=606cc879#heading=h.acw5runa3m21) -ból önállóan is létezők kiválasztása
+- adott napokon a [m/praerator](../modules/praeorator.md)ból önállóan is létezők kiválasztása
 
   > Todo: sorrend meghatározása.
 

@@ -2,7 +2,7 @@ Melodies = Dallamok
 ===
 A liturgiák, főként szentmisék jelentős része énekelhető is. Ezeknek a gregorián szerű kottája megjelenítendő sok helyen. Nyomtatásban egyes részek előre el vannak készítve, másutt a d<i>ő</i>lt betűk, az <ins>a</ins>láhúzások és a NAGYbetűk alapján kell a dallamot megformálni. A ritmus viszont nem számít. Ehhez kéne dallam-generátort gyártani és megjeleníteni. Nagy-nagy csoda volna ez.
 
-- A [további beállításoknál]() állítható, hogy a dallamokból mennyi látszódjon: generálja mindenhol, elég az eleje, ne legyen semmi.
+- A beállításoknál állítható, hogy a dallamokból mennyi látszódjon: generálja mindenhol, elég az eleje, ne legyen semmi.
 - Ha létezik a modul, akkor a dallamosítható részeknél kis hangjegy ikon jelzi a lehetőséget. Rákattintva kotta toggle.
 - Extra kihívás amikor ritkán fél dallamokat kell összerakni. Ezt az jelzi, hogy a válasz közvetlenül csillaggal kezdődik. Mint pl. évközi idő 15.hét szombat: “* mivel szeretete örökké megmarad” (Köznapok2:219)
 

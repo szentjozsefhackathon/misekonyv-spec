@@ -14,8 +14,8 @@
   		"Érbreszt fel, Urunk, …",
   		"Segítsd a népek vezetőit…",
   		{
-  		text: "Segíts…", 
-  		optional: "m-gyászmise"
+  		"text": "Segíts…", 
+  		"optional": "m-gyászmise"
   		} 
 	],
 	"kérések suffix": "Hallgass meg Urunk! [Van hogy nincs. Itthon azonos.]"
