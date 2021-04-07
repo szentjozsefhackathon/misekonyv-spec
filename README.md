@@ -16,8 +16,11 @@ Programozandó részek
 
 > TODO: Wireframek készítése még szükséges.
 
-- (current) [dateView](views/dateView.md) (default / kezdőképernyő)
-- 
+- (current) [dateView](views/date.md) (default / kezdőképernyő)
+- [chooseLiturgyTypeView](views/chooseLiturgyType.md)
+- [liturgyView](views/liturgy.md)
+- [liturgyOverviewView](views/liturgyOverview.md)
+- [weekView](views/week.md)
 
 
 
@@ -27,8 +30,8 @@ Az alábbiakban sok-sok követelmény hangzik el. A jobb átláthatóság és ta
 
 
 ## Szíve lelke
-- Naptár
-- Liturgikus naptár
+- Naptár: [m/calendar](modules/calendar.md) ([must](definitions.md#priorities))
+- Liturgikus naptár: [m/liturgicalCalendar](modules/liturgicalCalendar.md) ([must](definitions.md#priorities))
 ## Liturgikus modulok
 - Szentmise
 - Húsvét
