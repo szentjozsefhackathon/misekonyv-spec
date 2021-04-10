@@ -18,7 +18,7 @@ Fontos, hogy a későbbi évek során a fejlesztésbe mások is be tudjanak kapc
 
 ## Támogatott eszköz és kompatibilitás
 
-Az eszköz *valószínűleg* az Onyx Boox Note Air/3 (10,3 inch) ill. az Onyx Boox Nova 3 / 3 Color (7,8 inch) lesz. Ezért
+Az eszköz *valószínűleg* az Onyx Boox Note Air/3 (10,3 inch, 1872 x 1404 pixels) ill. az Onyx Boox Nova 3 / 3 Color (7,8 inch) lesz. Ezért
 
 - Csak Android platform
 - Android 10+
