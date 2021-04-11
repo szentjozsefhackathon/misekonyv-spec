@@ -151,3 +151,6 @@ A további beállítások / megjelenítendők eltér(het)nek a liturgia típust�
     - Válasz érték: Egyházmegye és püspöke.
     - Általános beállításoknál: magam beírom, vagy lokáció alapján próbálkozzon. Ja, de nincs GPS benne. Szóval ez később.
 
+Nem hivatalos, félig kész példa kép: 
+
+![liturgyOverviewView](liturgyOverviewView.jpeg)

@@ -6,3 +6,6 @@ Lehessen lapozgatni: balra húzással előre.
 
 > *Todo: PageBreakek*
 
+Nem hivatalos, félig kész példa kép: 
+
+![liturgyView](liturgyView.jpeg)

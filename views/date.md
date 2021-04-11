@@ -1,5 +1,6 @@
 # (current) dateView = Adott naphoz tartozó kezdő oldal
 
+
 Középen egymás alatt ezek:
 
 - Dátum
@@ -28,3 +29,8 @@ Középen egymás alatt ezek:
         - Ikonok amikre kattintva új liturgiát lehet létrehozni. Kattintva végig megy a liturgiák elkészítése kérdéseken és úgy jut el a [v/liturgyOverview](liturgyOverview.md)ba.
       - A használt naptárak megjelenítése kicsivel, hogy hamar észrevegyük, ha más az egyházmegye, vagy a szerzetesi be van kapcsolva. Például: “Magyarország - Szombathelyi egyházmegye, Ferences naptár” ([m/liturgicalCalendar](../modules/liturgicalCalendar.md) ). Kattintásra bejön az [v/appSettings](appSettings.md) fókuszálva az adott naptárválasztóhoz.
 
+
+
+Nem hivatalos, félig kész példa kép: 
+
+![dateView](dateView.jpeg)
