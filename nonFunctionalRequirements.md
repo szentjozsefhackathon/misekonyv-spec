@@ -82,3 +82,6 @@ Kell készüljön leírás képekkel a felhasználó számára is, hogy tudja ke
 ## Support igény
 
 > TODO: meghatározni
+
+## Backup
+A sok-sok kiválasztott olvasmány, evangélium egyebek csak ne vesszenek el.
