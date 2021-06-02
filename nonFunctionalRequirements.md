@@ -85,3 +85,9 @@ Kell készüljön leírás képekkel a felhasználó számára is, hogy tudja ke
 
 ## Backup
 A sok-sok kiválasztott olvasmány, evangélium egyebek csak ne vesszenek el.
+
+## Tesztelés
+Fejlesztés során nagyon fontos a tesztelés: automata tesztek, regression tesztek, végfelhasználói tesztek. 
+
+> TODO: teszt-követelményeket pontosítani
+
