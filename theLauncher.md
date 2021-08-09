@@ -17,3 +17,6 @@ Screensaver: lásd [m/screenSaver](modules/screenSaver.md).
 >- saját frissítési metódus?
 >- copyright és egyebek ezekhez?
 
+> Érdekes lehet:
+> Fdroid - alkalmazás bolt. 
+> CynnamonGen helyett már a LineageOS
